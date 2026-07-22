@@ -1,5 +1,5 @@
 /* RhythmLab content and presentation helpers. No build step is required. */
-window.ArrhythmiaContent = (() => {
+window.ArrhythmiaContent = (() => { 
   "use strict";
 
   const routes = [
