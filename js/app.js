@@ -8,7 +8,7 @@
   const els = {
     body: document.body,
     nav: document.getElementById("course-nav"),
-    app: document.getElementById("app-content"),
+    app: document.getElementById("app-content"), 
     currentLabel: document.getElementById("current-section-label"),
     sidebar: document.getElementById("sidebar"),
     scrim: document.getElementById("sidebar-scrim"),
